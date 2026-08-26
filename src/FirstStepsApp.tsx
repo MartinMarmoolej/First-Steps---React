@@ -1,8 +1,7 @@
 
 
 export function FirstStepsApp(){
-    return (
-         
+    return (  
     <>
         <h1>Hola Mundo!!</h1>
         <p>Esto es un parrafo!!</p>
@@ -13,6 +12,6 @@ export function FirstStepsApp(){
         <h2>Hola dentro de un div</h2>
         </div>
     </>
-
-    )
+    );
 }
+
