@@ -6,8 +6,8 @@ import { MyAwsomeApp } from './MyAwesomeApp';
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
 
-   <FirstStepsApp />
-   <MyAwsomeApp />
-   
+    <FirstStepsApp />
+    {/* <MyAwsomeApp /> */}
+
   </StrictMode>
 );
